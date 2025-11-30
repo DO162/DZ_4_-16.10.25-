@@ -1,0 +1,14 @@
+C:\Users\sdk26\Desktop\Код\Microsoft.Net and C#\DZ\DZ_4_(16.10.25)\bin\Debug\net9.0\DZ_4_(16.10.25).exe
+C:\Users\sdk26\Desktop\Код\Microsoft.Net and C#\DZ\DZ_4_(16.10.25)\bin\Debug\net9.0\DZ_4_(16.10.25).deps.json
+C:\Users\sdk26\Desktop\Код\Microsoft.Net and C#\DZ\DZ_4_(16.10.25)\bin\Debug\net9.0\DZ_4_(16.10.25).runtimeconfig.json
+C:\Users\sdk26\Desktop\Код\Microsoft.Net and C#\DZ\DZ_4_(16.10.25)\bin\Debug\net9.0\DZ_4_(16.10.25).dll
+C:\Users\sdk26\Desktop\Код\Microsoft.Net and C#\DZ\DZ_4_(16.10.25)\bin\Debug\net9.0\DZ_4_(16.10.25).pdb
+C:\Users\sdk26\Desktop\Код\Microsoft.Net and C#\DZ\DZ_4_(16.10.25)\obj\Debug\net9.0\DZ_4_(16.10.25).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdk26\Desktop\Код\Microsoft.Net and C#\DZ\DZ_4_(16.10.25)\obj\Debug\net9.0\DZ_4_(16.10.25).AssemblyInfoInputs.cache
+C:\Users\sdk26\Desktop\Код\Microsoft.Net and C#\DZ\DZ_4_(16.10.25)\obj\Debug\net9.0\DZ_4_(16.10.25).AssemblyInfo.cs
+C:\Users\sdk26\Desktop\Код\Microsoft.Net and C#\DZ\DZ_4_(16.10.25)\obj\Debug\net9.0\DZ_4_(16.10.25).csproj.CoreCompileInputs.cache
+C:\Users\sdk26\Desktop\Код\Microsoft.Net and C#\DZ\DZ_4_(16.10.25)\obj\Debug\net9.0\DZ_4_(16.10.25).dll
+C:\Users\sdk26\Desktop\Код\Microsoft.Net and C#\DZ\DZ_4_(16.10.25)\obj\Debug\net9.0\refint\DZ_4_(16.10.25).dll
+C:\Users\sdk26\Desktop\Код\Microsoft.Net and C#\DZ\DZ_4_(16.10.25)\obj\Debug\net9.0\DZ_4_(16.10.25).pdb
+C:\Users\sdk26\Desktop\Код\Microsoft.Net and C#\DZ\DZ_4_(16.10.25)\obj\Debug\net9.0\DZ_4_(16.10.25).genruntimeconfig.cache
+C:\Users\sdk26\Desktop\Код\Microsoft.Net and C#\DZ\DZ_4_(16.10.25)\obj\Debug\net9.0\ref\DZ_4_(16.10.25).dll
